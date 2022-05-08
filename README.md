@@ -6,6 +6,6 @@ The file contains all the files required by BLNIMDA, including disease semantic 
 
 ##code
 
-This folder mainly includes  "main function", "Gaussian interaction kernel similarity calculation", "main frame of BLNIMDA" and "AUC calculation".
+The codes mainly includes  "main function", "Gaussian interaction kernel similarity calculation", "main frame of BLNIMDA" and "AUC calculation".
 
 ##All codes in this study were run in MATLAB environment.
